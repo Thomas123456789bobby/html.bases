@@ -42,7 +42,7 @@ display: block;
 }
 
 #text1 {
-    margin-top:100px;
+    margin-top:20px;
     border-radius: 10px;
     width: 700px;
     margin-left: auto;
@@ -83,6 +83,36 @@ color:rgb(0, 0, 0);
     background-color: rgb(232, 232, 252);
     color:rgb(0, 0, 0);
 }
+
+#text4 {
+    margin-top:20px;
+    border-radius: 10px;
+    width: 700px;
+    margin-left: auto;
+    margin-right:auto;
+    border:3px solid black;
+    background-color:white;
+}
+#text4:hover{
+    background-color: rgb(232, 232, 252);
+    color:rgb(0, 0, 0);
+}
+
+#text5 {
+    margin-top:20px;
+    border-radius: 10px;
+    width: 700px;
+    margin-left: auto;
+    margin-right:auto;
+    border:3px solid black;
+    background-color:white;
+}
+#text5:hover{
+    background-color: rgb(232, 232, 252);
+    color:rgb(0, 0, 0);
+}
+
+
 
 a {
     color: white;
