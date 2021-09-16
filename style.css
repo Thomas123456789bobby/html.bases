@@ -1,38 +1,12 @@
 body{
     text-align: center;
-    background-color:rgb(156, 162, 248)
-}
-
-#menu {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    margin-bottom: auto;
 
 }
-#menu li {
-    line-height: 50px;
-    float: left;
-    height: 50px;
-    width: 156px;
-    text-align: center;
-    background-color:rgb(12, 4, 121);
-    border: 2px solid rgb(12, 4, 121);
 
-}
-#menu li:hover{
-    background-color: rgb(11, 0, 51);
-    border: 2px solid rgb(4, 0, 255);
-    color:rgb(255, 255, 255);
-    }
-#menu a {
-text-decoration: none;
-display: block;
 
-}
 
 #main {
-    background-color:white;
+    background-color: lightsteelblue;
     width: 800px;
     height: 1000px;
     margin-left: auto;
@@ -41,18 +15,51 @@ display: block;
     
 }
 
+
+#menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-bottom: auto;
+    color:lightgray;
+
+}
+#menu li {
+    line-height: 50px;
+    float: left;
+    height: 50px;
+    width: 156px;
+    text-align: center;
+    background-color: darkblue;
+    border: 2px solid darkblue;
+    color:lightgray;
+}
+#menu li:hover{
+    background-color: rgb(11, 0, 51);
+    border: 2px solid rgb(4, 0, 255);
+    color:rgb(255, 255, 255);
+    color:lightgray;
+    }
+#menu a {
+text-decoration: none;
+display: block;
+
+}
+
+
+
 #text1 {
     margin-top:20px;
     border-radius: 10px;
     width: 700px;
     margin-left: auto;
     margin-right:auto;
-    border:3px solid black;
+    border:3px solid blue;
     background-color:white;
 }
 #text1:hover{
 background-color: rgb(232, 232, 252);
-color:rgb(0, 0, 0);
+color:darkcyan;
 
 }
 
@@ -62,12 +69,12 @@ color:rgb(0, 0, 0);
     width: 700px;
     margin-left: auto;
     margin-right:auto;
-    border:3px solid black;
+    border:3px solid blue;
     background-color:white;
 }
 #text2:hover{
     background-color: rgb(232, 232, 252);
-    color:rgb(0, 0, 0);
+    color:darkcyan;
 }
 
 #text3 {
@@ -76,12 +83,12 @@ color:rgb(0, 0, 0);
     width: 700px;
     margin-left: auto;
     margin-right:auto;
-    border:3px solid black;
+    border:3px solid blue;
     background-color:white;
 }
 #text3:hover{
     background-color: rgb(232, 232, 252);
-    color:rgb(0, 0, 0);
+    color:darkcyan;
 }
 
 #text4 {
@@ -90,12 +97,12 @@ color:rgb(0, 0, 0);
     width: 700px;
     margin-left: auto;
     margin-right:auto;
-    border:3px solid black;
+    border:3px solid blue;
     background-color:white;
 }
 #text4:hover{
     background-color: rgb(232, 232, 252);
-    color:rgb(0, 0, 0);
+    color:darkcyan;
 }
 
 #text5 {
@@ -104,12 +111,12 @@ color:rgb(0, 0, 0);
     width: 700px;
     margin-left: auto;
     margin-right:auto;
-    border:3px solid black;
+    border:3px solid blue;
     background-color:white;
 }
 #text5:hover{
     background-color: rgb(232, 232, 252);
-    color:rgb(0, 0, 0);
+    color:darkcyan;
 }
 
 
